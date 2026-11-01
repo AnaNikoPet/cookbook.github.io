@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  padding: 15px;
+  background: #f3e9d2;
+  color: #333333;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.page {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #ffffff;
+  border: 2px solid #8b5a2b;
+}
+
+.header {
+  padding: 15px;
+  background: #8b5a2b;
+  color: #ffffff;
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0 0 5px;
+  font-size: 28px;
+}
+
+.header p {
+  margin: 0;
+  font-size: 15px;
+}
+
+.menu {
+  margin: 15px 0 20px;
+  padding: 10px;
+  background: #f5deb3;
+  text-align: center;
+}
+
+.menu a {
+  margin: 0 10px;
+  color: #5c3317;
+  font-weight: bold;
+}
+
+h2 {
+  margin-top: 25px;
+  color: #8b4513;
+  font-size: 24px;
+}
+
+h3 {
+  margin-top: 20px;
+  color: #5c3317;
+  font-size: 19px;
+}
+
+a {
+  color: #8b4513;
+}
+
+a:hover {
+  color: #d2691e;
+}
+
+.recipe-card {
+  margin-bottom: 15px;
+  padding: 12px;
+  border: 1px solid #c8b08a;
+  background: #fffaf0;
+}
+
+.recipe-card h3 {
+  margin-top: 0;
+}
+
+.recipe-card p {
+  margin: 5px 0;
+}
+
+.recipe-photo {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 10px 0 20px;
+  border: 1px solid #c8b08a;
+}
+
+table {
+  width: 100%;
+  margin: 10px 0 20px;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 6px 8px;
+  border: 1px solid #c8b08a;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background: #f5deb3;
+}
+
+ol,
+ul {
+  padding-left: 25px;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+.note {
+  margin: 15px 0;
+  padding: 10px;
+  border: 1px dashed #8b5a2b;
+  background: #fff8dc;
+}
+
+.note p {
+  margin: 0;
+}
+
+.back {
+  margin-top: 20px;
+}
+
+.footer {
+  margin-top: 30px;
+  padding-top: 10px;
+  border-top: 1px solid #c8b08a;
+  color: #777777;
+  font-size: 14px;
+  text-align: center;
+}
+
+.footer p {
+  margin: 0;
+}
